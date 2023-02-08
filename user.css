@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    min-height: 100vh ;
+    background:linear-gradient(to right, #730662,#bd0d59,#e03e36) ;
+}
+
+table{
+    background: linear-gradient(to right,#e03e36, #f1731f,#bd0d59) ;;
+}
